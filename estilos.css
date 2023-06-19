@@ -5,6 +5,18 @@
 }
 
 body{
-    background-image: url(../Sergio.aguilera/imagenes/fondo.jpg);
+    background-image: url(../Sergio.aguilera/imagenes/fondo.PNG);
     background-size: cover;
+}
+
+ h1{
+  font-size: 100px;
+  text-align: center;
+  margin-top: 30px;
+  color: rgb(45, 106, 163);
+  text-shadow:2px 4px 5px white ;
+
+}
+.titulo{
+ height: 300px;
 }
